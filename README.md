@@ -453,8 +453,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **GitHub**: [@swethak295](https://github.com/swethak295)
-- **Repository**: [fake-mail-detection](https://github.com/swethak295/fake-mail-detection)
-- **Issues**: [GitHub Issues](https://github.com/swethak295/fake-mail-detection/issues)
+- **Repository**: [fake-news-detection](https://github.com/swethak295/fake-mail-detection)
+- **Issues**: [GitHub Issues](https://github.com/swethak295/fake-news-detection/issues)
 
 ---
 
