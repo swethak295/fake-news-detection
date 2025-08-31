@@ -460,4 +460,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If you find this project helpful, please give it a star on GitHub!**
 
-**🔗 Share this project**: [https://github.com/swethak295/fake-mail-detection](https://github.com/swethak295/fake-mail-detection)
+**🔗 Share this project**: [https://github.com/swethak295/fake-mail-detection](https://github.com/swethak295/fake-news-detection)
