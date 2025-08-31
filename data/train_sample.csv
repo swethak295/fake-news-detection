@@ -1,0 +1,11 @@
+id,title,text,label
+1,Government announces new healthcare plan,The government announced a new healthcare plan focusing on preventive care and affordability.,REAL
+2,Scientists discover water on Mars again,A team of astronomers reported signs consistent with previous readings indicating possible water traces on Mars.,REAL
+3,Celebrity endorses miracle weight loss pill,"A celebrity claimed a pill can cause weight loss without diet or exercise, with no scientific backing.",FAKE
+4,NASA confirms alien life found on Venus,"An article claims NASA confirmed alien life on Venus, but NASA has issued no such statement.",FAKE
+5,Local school wins national robotics contest,A local school won a robotics contest after building an autonomous drone for disaster response.,REAL
+6,Breaking: Cure for cancer found in home remedy,A viral post says a simple kitchen ingredient cures cancer; doctors warn there's no evidence for this.,FAKE
+7,Elections postponed due to security concerns,The election commission stated elections were postponed because of security arrangements and logistics.,REAL
+8,You won't believe what this fruit can do,A blog post says eating one fruit daily makes you live forever. No studies are cited.,FAKE
+9,Tech giant releases new smartphone model,The company unveiled its latest smartphone with improved battery life and camera performance.,REAL
+10,Vaccine turns people into magnets,Posts claim vaccinated people become magnetic; scientists have debunked this as impossible.,FAKE
